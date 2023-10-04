@@ -1,5 +1,5 @@
 {
   "linkCheckIP": "http://ip-api.com/json",
   "linkBundle": "https://tai.duahau.xyz/main/",
-  "isUpdate": true
+  "isUpdate": false
 }
